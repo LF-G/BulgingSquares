@@ -5,7 +5,7 @@ https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java .
 
   Para compilar o programa na linha de comando do Linux, basta digitar:
 
-  javac StdDraw.java\n
+  javac StdDraw.java |
   javac BulgingSquares.java
 
 
